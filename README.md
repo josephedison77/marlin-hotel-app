@@ -1,2 +1,7 @@
-# marlin-hotel-app
-marlin hotel
+# My Local Project
+
+This is my local version.
+
+# myapp
+
+This is the GitHub version.
